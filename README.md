@@ -23,5 +23,5 @@ The program imitate the interface and most of functions of picrew maker website,
 ### Tips
 - The bookmarklet downloaded file won't keep any information about author or maker name (it will keep description though).
 - **Strongly adviced** to rename the unzipped maker folder into format `[name] - [author]` or `[maker id]_[name] - [author]` or etc. for better recognizability, also for respecting authors.
-	- You can copy and rename (or even share) the `stack.xml` inside the same maker folder to "save" different maker state, you can also drag in the different xml state file into program to load the specific state.
+- You can copy and rename (or even share) the `stack.xml` inside the same maker folder to "save" different maker state, you can also drag in the different xml state file into program to load the specific state.
 	- Click the `Done` button, change the maker or close the program will save the state into xml state file, so please ensure you did these operations before doing anything about the xml state file. (`stack.xml` by default)
