@@ -26,7 +26,12 @@ namespace PicrewCreator
 			// The InitializeComponent() call is required for Windows Forms designer support.
 			//
 			InitializeComponent();
-			
+			buttonUp.Image=GetArrowBitmap.Up();
+			buttonDown.Image=GetArrowBitmap.Down();
+			buttonLeft.Image=GetArrowBitmap.Left();
+			buttonRight.Image=GetArrowBitmap.Right();
+			buttonClockwise.Image=GetArrowBitmap.Clockwise();
+			buttonAntiClockwise.Image=GetArrowBitmap.AntiClockwise();
 			//
 			// TODO: Add constructor code after the InitializeComponent() call.
 			//

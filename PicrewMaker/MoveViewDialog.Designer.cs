@@ -52,7 +52,7 @@ namespace PicrewCreator
 			// 
 			// buttonUp
 			// 
-			this.buttonUp.Image = ((System.Drawing.Image)(resources.GetObject("buttonUp.Image")));
+			//~ this.buttonUp.Image = ((System.Drawing.Image)(resources.GetObject("buttonUp.Image")));
 			this.buttonUp.Location = new System.Drawing.Point(70, 7);
 			this.buttonUp.Name = "buttonUp";
 			this.buttonUp.Size = new System.Drawing.Size(45, 45);
@@ -61,7 +61,7 @@ namespace PicrewCreator
 			// 
 			// buttonLeft
 			// 
-			this.buttonLeft.Image = ((System.Drawing.Image)(resources.GetObject("buttonLeft.Image")));
+			//~ this.buttonLeft.Image = ((System.Drawing.Image)(resources.GetObject("buttonLeft.Image")));
 			this.buttonLeft.Location = new System.Drawing.Point(19, 58);
 			this.buttonLeft.Name = "buttonLeft";
 			this.buttonLeft.Size = new System.Drawing.Size(45, 45);
@@ -70,7 +70,7 @@ namespace PicrewCreator
 			// 
 			// buttonRight
 			// 
-			this.buttonRight.Image = ((System.Drawing.Image)(resources.GetObject("buttonRight.Image")));
+			//~ this.buttonRight.Image = ((System.Drawing.Image)(resources.GetObject("buttonRight.Image")));
 			this.buttonRight.Location = new System.Drawing.Point(121, 58);
 			this.buttonRight.Name = "buttonRight";
 			this.buttonRight.Size = new System.Drawing.Size(45, 45);
@@ -79,7 +79,7 @@ namespace PicrewCreator
 			// 
 			// buttonDown
 			// 
-			this.buttonDown.Image = ((System.Drawing.Image)(resources.GetObject("buttonDown.Image")));
+			//~ this.buttonDown.Image = ((System.Drawing.Image)(resources.GetObject("buttonDown.Image")));
 			this.buttonDown.Location = new System.Drawing.Point(70, 109);
 			this.buttonDown.Name = "buttonDown";
 			this.buttonDown.Size = new System.Drawing.Size(45, 45);
@@ -119,7 +119,7 @@ namespace PicrewCreator
 			// 
 			// buttonAntiClockwise
 			// 
-			this.buttonAntiClockwise.Image = ((System.Drawing.Image)(resources.GetObject("buttonAntiClockwise.Image")));
+			//~ this.buttonAntiClockwise.Image = ((System.Drawing.Image)(resources.GetObject("buttonAntiClockwise.Image")));
 			this.buttonAntiClockwise.Location = new System.Drawing.Point(19, 109);
 			this.buttonAntiClockwise.Name = "buttonAntiClockwise";
 			this.buttonAntiClockwise.Size = new System.Drawing.Size(45, 45);
@@ -128,7 +128,7 @@ namespace PicrewCreator
 			// 
 			// buttonClockwise
 			// 
-			this.buttonClockwise.Image = ((System.Drawing.Image)(resources.GetObject("buttonClockwise.Image")));
+			//~ this.buttonClockwise.Image = ((System.Drawing.Image)(resources.GetObject("buttonClockwise.Image")));
 			this.buttonClockwise.Location = new System.Drawing.Point(121, 109);
 			this.buttonClockwise.Name = "buttonClockwise";
 			this.buttonClockwise.Size = new System.Drawing.Size(45, 45);
